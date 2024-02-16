@@ -25,7 +25,9 @@
     bottom: 45px;
     z-index: 99;
 }
-
+.error{
+    color: red;
+}
 
 /*** Spinner ***/
 #spinner {
@@ -584,3 +586,4 @@
 .logo__subtitle{
 
 }
+
